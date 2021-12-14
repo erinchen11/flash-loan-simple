@@ -1,6 +1,6 @@
 # Flash Loan use Aave protocol 
 
-Use Solidity to integerate AavE V1 protocol to implement simple flash loan contract.
+Use Solidity to integrate Aave V1 protocol to implement simple flash loan contract.
 
 Understand flash loan concepts.
 ## Tools
